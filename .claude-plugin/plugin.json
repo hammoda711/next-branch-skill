@@ -1,0 +1,8 @@
+{
+  "name": "next-branch",
+  "description": "Close out a finished feature branch and cut the next one from a freshly synced dev, after verifying the remote really merged it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mohamed Taher"
+  }
+}

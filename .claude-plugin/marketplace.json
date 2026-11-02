@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skill-next-branch",
+  "description": "Single-skill marketplace for next-branch.",
+  "owner": {
+    "name": "Mohamed Taher"
+  },
+  "plugins": [
+    {
+      "name": "next-branch",
+      "description": "Close out a finished feature branch and cut the next one from a freshly synced dev, after verifying the remote really merged it.",
+      "author": {
+        "name": "Mohamed Taher"
+      },
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://github.com/hammoda711/claude-skill-next-branch"
+    }
+  ]
+}
