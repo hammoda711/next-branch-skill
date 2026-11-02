@@ -7,8 +7,8 @@ The point is the verification. It checks that the remote really merged your bran
 ## Install
 
 ```
-/plugin marketplace add hammoda711/claude-skill-next-branch
-/plugin install next-branch@claude-skill-next-branch
+/plugin marketplace add hammoda711/next-branch-skill
+/plugin install next-branch@next-branch-skill
 ```
 
 ## Use
